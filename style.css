@@ -41,6 +41,10 @@ h1 {
 }
 #latest-work {
     text-align: center;
+    background-image: url("images/latest-work-bg.png");
+    background-position: right;
+    background-size: 100%;
+    /* border: 1px solid red; */
 }
 .work {
     width: 25%;
