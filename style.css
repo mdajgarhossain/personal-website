@@ -44,7 +44,7 @@ h1 {
     background-image: url("images/latest-work-bg.png");
     background-position: right;
     background-size: 100%;
-    /* border: 1px solid red; */
+    height: 450px;
 }
 .work {
     width: 25%;
