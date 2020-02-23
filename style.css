@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 section {
-    height: 500px;
+    height: 650px;
     padding-bottom: 130px;
 }
 #top-banner {
@@ -34,5 +34,10 @@ h1 {
 }
 .half-width img {
     width: 100%;
+}
+#biography-area {
+    /* border: 1px solid red; */
+    background-image: url("images/biography-bg.png");
+    background-size: 100%;
 }
 
